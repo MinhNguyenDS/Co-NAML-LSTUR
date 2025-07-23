@@ -1,0 +1,30 @@
+{
+  "description": "Sample batch inference data for Co_NAML_LSTUR model",
+  "users": [
+    {
+      "user_id": 12345,
+      "clicked_news_ids": ["N37378", "N14827", "N50398"]
+    },
+    {
+      "user_id": 12346,
+      "clicked_news_ids": ["N48265", "N42793", "N20404", "N55314"]
+    },
+    {
+      "user_id": 12347,
+      "clicked_news_ids": ["N55314", "N37378", "N14827", "N50398", "N48265"]
+    },
+    {
+      "user_id": 12348,
+      "clicked_news_ids": ["N42793", "N20404"]
+    },
+    {
+      "user_id": 12349,
+      "clicked_news_ids": ["N37378", "N48265", "N42793", "N20404", "N55314", "N14827"]
+    }
+  ],
+  "candidate_news": [
+    "N37378", "N14827", "N50398", "N48265", "N42793", 
+    "N20404", "N55314", "N15324", "N60123", "N71456",
+    "N82789", "N93012", "N10445", "N25678", "N34901"
+  ]
+} 
