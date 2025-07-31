@@ -244,19 +244,13 @@ Co-NAML-LSTUR/
 
 If you use this code in your research, please cite our paper:
 ```bibtex
-  Coming soon
-```
-
-<!-- ```bibtex
-@inproceedings{co-naml-lstur-2024,
-  title={Co-NAML-LSTUR: A Combined Model with Attentive Multi-View Learning and Long- and Short-term User Representations for News Recommendation},
-  author={[Your Names]},
-  booktitle={[Conference/Journal Name]},
-  year={2024},
-  pages={[Page Numbers]},
-  organization={[Publisher]}
+@article{nguyen2025co,
+  title={Co-NAML-LSTUR: A Combined Model with Attentive Multi-View Learning and Long-and Short-term User Representations for News Recommendation},
+  author={Nguyen, Minh Hoang and Nguyen, Thuat Thien and Ta, Minh Nhat},
+  journal={arXiv preprint arXiv:2507.20210},
+  year={2025}
 }
-``` -->
+```
 
 ## 📄 License
 
